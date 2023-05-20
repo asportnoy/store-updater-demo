@@ -7,10 +7,10 @@
     "discordID": "1000992611840049192",
     "github": "replugged-org"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "updater": {
-    "type": "github",
-    "id": "asportnoy/store-updater-demo"
+    "type": "store",
+    "id": "dev.albertp.StoreUpdaterDemo"
   },
   "license": "MIT",
   "type": "replugged-plugin",
