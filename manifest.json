@@ -1,7 +1,7 @@
 {
-  "id": "dev.replugged.PluginTemplate",
-  "name": "Plugin Template",
-  "description": "A plugin template",
+  "id": "dev.albertp.StoreUpdaterDemo",
+  "name": "Store Updater Demo",
+  "description": "Store Updater Demo",
   "author": {
     "name": "replugged",
     "discordID": "1000992611840049192",
@@ -10,7 +10,7 @@
   "version": "1.0.0",
   "updater": {
     "type": "github",
-    "id": "replugged-org/plugin-template"
+    "id": "asportnoy/store-updater-demo"
   },
   "license": "MIT",
   "type": "replugged-plugin",
